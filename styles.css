@@ -93,7 +93,7 @@ ul li a:hover {
 }
 
 .section__container {
-  min-height: 75vh;
+  min-height: 85vh;
   max-width: var(--max-width);
   margin: auto;
   padding: 1%;
